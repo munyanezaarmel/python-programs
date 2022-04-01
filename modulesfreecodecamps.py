@@ -1,0 +1,2 @@
+import dictionariesfreecodecamps
+print(dictionariesfreecodecamps.__name__)
